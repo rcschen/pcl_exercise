@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 2.6 FATAL_ERROR)
+project(PCL_EXEERCISE)
+#find_package(PCL 1.3 REQUIRED COMPONENTS common io)
+find_package(PCL 1.6 REQUIRED)
+
+include_directories(${PCL_INCLUDE_DIRS})
+link_directories(${PCL_LIBRARY_DIRS})
+add_definitions(${PCL_DEFINITIONS})
+set(LOCAL_INCLUDE include)
+set(SRC_DIR src)
+set(LIB_DIR libs)
+include_directories(${LOCAL_INCLUDE})
+add_subdirectory(${SRC_DIR})
+add_subdirectory(${LIB_DIR})
+

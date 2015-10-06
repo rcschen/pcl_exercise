@@ -1,0 +1,2 @@
+/home/cschen/pcl_exercise/src/CMakeFiles/normal_estimation_using_integral_images.dir
+/home/cschen/pcl_exercise/src/CMakeFiles/pc_test.dir

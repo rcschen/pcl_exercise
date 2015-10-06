@@ -1,0 +1,5 @@
+/home/cschen/pcl_exercise/src/CMakeFiles/example_fast_point_feature_histograms.dir
+/home/cschen/pcl_exercise/src/CMakeFiles/example_normal_estimation.dir
+/home/cschen/pcl_exercise/src/CMakeFiles/example_point_feature_histograms.dir
+/home/cschen/pcl_exercise/src/CMakeFiles/normal_estimation_using_integral_images.dir
+/home/cschen/pcl_exercise/src/CMakeFiles/pc_test.dir
